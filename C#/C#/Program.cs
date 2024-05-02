@@ -1,0 +1,1 @@
+﻿LeetCode._14_LongestCommonPrefix.Test();
