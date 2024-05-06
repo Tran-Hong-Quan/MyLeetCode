@@ -41,7 +41,7 @@ namespace LeetCode
                     stack.Pop();
                     if (stack.Count > 0)
                     {
-                        stack.Last().next = p;
+                        stack.Peek().next = p;
                     }
                     else if (stack.Count == 0)
                     {
