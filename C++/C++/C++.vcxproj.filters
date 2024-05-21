@@ -24,12 +24,18 @@
     <ClCompile Include="_128.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="_506.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="_217.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="_128.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="_226.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

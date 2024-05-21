@@ -13,7 +13,7 @@ int main()
     vector<int> nums = { 0,3,7,2,5,8,4,6,0,1 };
     //_217 _217;
     //cout << _217.containsDuplicate(nums);
-    cout << (new _128)->longestConsecutive(nums);
+    //cout << (new _128)->longestConsecutive(nums);
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
